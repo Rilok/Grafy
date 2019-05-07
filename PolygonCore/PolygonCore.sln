@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolygonCore", "PolygonCore\PolygonCore.csproj", "{88CC1982-BC9D-45EE-B888-E05D8CAFBF2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88CC1982-BC9D-45EE-B888-E05D8CAFBF2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88CC1982-BC9D-45EE-B888-E05D8CAFBF2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88CC1982-BC9D-45EE-B888-E05D8CAFBF2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88CC1982-BC9D-45EE-B888-E05D8CAFBF2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30EA34F8-0D77-44F2-AA81-2F7EE3737991}
+	EndGlobalSection
+EndGlobal
